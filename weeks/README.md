@@ -1,4 +1,4 @@
-# Syllabus
+# Weekly Schedule
 
 **OMIS-113 · Data Warehousing and Business Intelligence** · Spring 2027 (March–June)
 

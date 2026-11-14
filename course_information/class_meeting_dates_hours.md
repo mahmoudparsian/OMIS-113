@@ -11,9 +11,9 @@
 | Class meetings | **Tuesdays and Thursdays, 5:45–7:20 pm (Pacific Time)** — 2 sessions per week, 95 minutes each |
 | Room | **TBD** |
 | Midterm exam | **TBD** — see [Midterm Exam](midterm_exam.md) |
-| Final project presentations | **TBD** (week 10) — see [Project guidelines](../syllabus/PROJECT/DW_Project_Guidelines.md) |
+| Final project presentations | **TBD** (week 10) — see [Project guidelines](../weeks/PROJECT/DW_Project_Guidelines.md) |
 | Final exam | **Tuesday, June 8, 2027, 6:30–9:30 pm** (finals week: June 7–10) — see [Final Exam](final_exam.md) |
 | Instructor's office | 316U, Lucas Hall |
 | Office hours | See [Office Hours](office_hours.md) |
 
-Weekly topics: [Syllabus](../syllabus/README.md).
+Weekly topics: [Weekly schedule](../weeks/README.md).
