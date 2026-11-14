@@ -114,6 +114,7 @@ Week pages, slides, notebooks and labs: [Weekly schedule](../weeks/README.md) �
 | Assessment | When |
 |---|---|
 | **Midterm Exam** | *To be announced on Camino* <!-- TODO(syllabus): midterm date --> — during a class session ([`midterm_exam.md`](midterm_exam.md)) |
+| **Exploratory data presentation** (project) | *To be announced on Camino* <!-- TODO(syllabus): EDA presentation date --> ([Project guidelines](../weeks/PROJECT/DW_Project_Guidelines.md)) |
 | **Final project presentations** | Week 10 ([Project guidelines](../weeks/PROJECT/DW_Project_Guidelines.md)) <!-- TODO(syllabus): presentation dates --> |
 | **Final Exam** | **Tuesday, June 8, 2027, 6:30–9:30 pm** (finals week: June 7–10) · room *to be announced on Camino* <!-- TODO(syllabus): final exam room --> ([`final_exam.md`](final_exam.md)) |
 
@@ -134,8 +135,8 @@ notebook that checks your installation). Full list: [`required_software.md`](req
 |---|---|
 | DuckDB **2.0 or newer** — the CLI and the Python package (`pip install "duckdb>=2.0"`) | The database for the whole course; keep one DuckDB version for both |
 | Python **3.11+** with pandas, matplotlib, seaborn (week 2 EDA: openpyxl, scipy, plotly) | Notebooks and charts |
-| Marimo | All course notebooks and the in-class lab notebooks |
-| Tableau (Desktop / Public, free with a student license) | Dashboards from week 4 (the same charts in Python are accepted) |
+| Marimo, with `sqlglot` (`pip install marimo sqlglot`; sqlglot runs the SQL cells) | All course notebooks and the in-class lab notebooks |
+| Tableau Desktop (free with a Tableau for Students license) or Tableau Public (free) | Dashboards from week 4 (the same charts in Python are accepted) |
 | Respondus LockDown Browser ([SCU download](https://download.respondus.com/lockdown/download.php?ID=597745928)) | Midterm and Final Exam |
 | *Optional:* MySQL; an OpenAI API key | MySQL reference examples; the optional bonus module |
 
@@ -165,8 +166,9 @@ notebook that checks your installation). Full list: [`required_software.md`](req
 
 ### Project
 
-In teams, students design, build and present a data warehouse on a dataset of their
-choice; presentations are in week 10. Details:
+In teams of 2, students design, build and present a data warehouse on a dataset of their
+choice. Final presentations are in week 10, in both sessions: 10 minutes + 3 minutes of
+questions per team (each team is assigned to a session). Details:
 [Project guidelines](../weeks/PROJECT/DW_Project_Guidelines.md).
 
 ### Exams
@@ -214,6 +216,10 @@ this class, contact the **Office of Accessible Education (OAE)** —
 <https://www.scu.edu/oae/> — as early as possible to arrange accommodations, and
 share your accommodation letter with the instructor.
 
+**Extra time on timed tests also applies to the in-class labs** (30 minutes each): your lab time is
+extended by the approved amount. Send the instructor your OAE letter **before the first session** so this
+is set up for every lab.
+
 ---
 
 ## 10. Academic Integrity and Conduct
@@ -223,6 +229,9 @@ share your accommodation letter with the instructor.
   plagiarism and will be reported. Exchanging ideas is fine; exchanging detailed
   solutions is not ([`academic_integrity.md`](academic_integrity.md),
   [`grading_and_class_conduct.md`](grading_and_class_conduct.md)).
+- **AI tools.** You may use AI tools (ChatGPT, Claude, Copilot) to learn concepts and debug your own
+  code. What you submit must be your own work; in the project, say where AI-generated code or text was
+  used. Exams are taken in the LockDown Browser, without AI tools.
 - **SCU Academic Integrity:** <https://www.scu.edu/academic-integrity/>
 - **Plagiarism:** [SCU library guide](https://libguides.scu.edu/plagiarism/conduct)
 - **Discrimination, harassment, and sexual misconduct:** Santa Clara University does
