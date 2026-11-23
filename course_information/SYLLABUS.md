@@ -161,7 +161,7 @@ notebook that checks your installation). Full list: [`required_software.md`](req
 ### Labs
 
 - 30 minutes each, done **in class**: a lab sheet and a Marimo notebook, released at
-  the start of the session. Submit your work as instructed in class.
+  the start of the session. Submit your work in **Camino** before the session ends.
 - The lowest 2 of the 20 lab scores are dropped.
 
 ### Project
@@ -197,7 +197,7 @@ Full policy: [`grading_and_class_conduct.md`](grading_and_class_conduct.md).
 ## 7. Late Work
 
 **No late labs or project deliverables are accepted**, under any circumstances.
-Labs are done and submitted in class.
+Labs are done in class and submitted in Camino before the session ends.
 
 ---
 

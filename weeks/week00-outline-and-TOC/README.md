@@ -1,6 +1,6 @@
 # Week 0 — Course Outline & Table of Contents
 
-**OMIS-113 · Data Warehousing and Business Intelligence** · Spring 2027 (March–June)
+**OMIS-113 · Data Warehousing and Business Intelligence** · Spring 2027 (April–June)
 
 Where this course goes, how each week works, and the software you need.
 
@@ -26,7 +26,7 @@ Project guidelines: [`../PROJECT/`](../PROJECT/)
 
 - **2 sessions × 95 minutes** (Tuesdays and Thursdays, 5:45–7:20 pm Pacific Time)
 - Each session: lecture + live demo, then a **30-minute in-class lab** (2 labs per week)
-- Labs are **released at the start of their session** in each week's `labs/` folder (a lab sheet `.md` + a Marimo notebook `.py`). Do them in class and submit as instructed.
+- Labs are **released at the start of their session** in each week's `labs/` folder (a lab sheet `.md` + a Marimo notebook `.py`). Do them in class and submit them in **Camino** before the session ends.
 
 ## ⚙️ Software setup (do this before week 1)
 

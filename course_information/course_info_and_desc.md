@@ -1,6 +1,6 @@
 # Data Warehousing and Business Intelligence
 
-**OMIS-113 · Spring Quarter 2027 (March–June)** · Department of Information Systems & Analytics, Santa Clara University
+**OMIS-113 · Spring Quarter 2027 (April–June)** · Department of Information Systems & Analytics, Santa Clara University
 
 ## 1. Course Information
 

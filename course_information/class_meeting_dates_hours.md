@@ -1,6 +1,6 @@
 # Class Meeting Dates & Hours
 
-**OMIS-113 · Data Warehousing and Business Intelligence · Spring Quarter 2027 (March–June)**
+**OMIS-113 · Data Warehousing and Business Intelligence · Spring Quarter 2027 (April–June)**
 
 > 📌 This page is the **one place** for the quarter's dates. Items marked **TBD** are filled in when SCU publishes the Spring 2027 schedule.
 

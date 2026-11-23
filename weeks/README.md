@@ -1,6 +1,6 @@
 # Weekly Schedule
 
-**OMIS-113 · Data Warehousing and Business Intelligence** · Spring 2027 (March–June)
+**OMIS-113 · Data Warehousing and Business Intelligence** · Spring 2027 (April–June)
 
 10 weeks · 2 sessions per week (95 minutes each) · a **30-minute in-class lab in every session** (20 labs).
 Labs are released in class (lab sheet + Marimo notebook in each week's `labs/` folder). Dates: [Class Meeting Dates & Hours](../course_information/class_meeting_dates_hours.md).

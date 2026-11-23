@@ -24,7 +24,7 @@
 |---|---|
 | **Format** | 10 weeks · 20 sessions (Tue & Thu, 95 minutes each) · a 30-minute in-class lab in every session |
 | **Credit** | 5 units |
-| **Quarter** | Spring 2027 (March–June) · [dates & hours](course_information/class_meeting_dates_hours.md) |
+| **Quarter** | Spring 2027 (April–June) · [dates & hours](course_information/class_meeting_dates_hours.md) |
 | **Instructor** | [Dr. Mahmoud Parsian](https://www.scu.edu/business/isa/faculty/parsian/) |
 | **Teaching assistant** | to be announced |
 | **Prerequisites** | OMIS 30 or 31, and OMIS 105 |
